@@ -2,3 +2,6 @@
 /code
 /glove
 /spacy-twitter
+credentials.json
+nlpapikey.json
+token.json
