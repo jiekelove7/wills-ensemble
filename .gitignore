@@ -2,6 +2,7 @@
 /code
 /glove
 /spacy-twitter
+/pheme_cats
 credentials.json
 nlpapikey.json
 token.json
